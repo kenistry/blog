@@ -350,7 +350,7 @@ footer{
     gap: 40px;
     padding-top: 50px;
     padding-bottom: 40px;
-    padding-inline: 150px;  
+     
 }
 
 #footer-logo{
@@ -381,7 +381,7 @@ footer h4{
 #footer-end{
     background-color: #111111;
     color: #999999;
-    padding-inline: 150px;
+    
     
 }
 
@@ -411,5 +411,8 @@ footer ul li{
    
 }
 
+@media screen and (max-width: 767px){
+    
+}
 
 
